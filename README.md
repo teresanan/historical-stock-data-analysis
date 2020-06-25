@@ -1,2 +1,2 @@
 # historical-stock-data-analysis
-AMD and GOOGLE stock historical prices since 2009
+Analysis on AMD and GOOGLE stock historical prices since 2009
